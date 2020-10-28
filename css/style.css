@@ -178,7 +178,11 @@ body {
 #greetings {
     font-size: var(--fss);
     color: var(--fg);
-    var name = 'Bruno';
+    name = 'Bruno';
+    lateTxt = 'Hora de dormir! ';
+    morningTxt = 'Bom dia! ';
+    afterTxt = 'Boa tarde ';
+    evenTxt = 'Boa noite ';
 }
 @media only screen and (max-width: 68.75em) {
     #greetings {
