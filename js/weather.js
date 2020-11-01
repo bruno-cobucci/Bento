@@ -29,7 +29,7 @@ function setPosition(position) {
 
 // Get the Weather data
 function getWeather(latitude, longitude) {
-    let api = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${key}`;
+    let api = `https://api.openweathermap.org/data/2.5/weather?lat=${-15.826691}&lon=${-47.921822}&appid=${337b9c9dec5e560b0282cd24a7fc2adb}`;
 
     console.log(api);
 
