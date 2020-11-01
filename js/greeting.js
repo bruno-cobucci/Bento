@@ -3,15 +3,15 @@ var today = new Date();
 var Hr = today.getHours();
 
 // Here you can change your name
-var name = 'John Doe';
+var name = 'Bruno';
 
 // Here you can change your greetings
-var gree1 = 'Go to Sleep! ';
-var gree2 = 'Good morning! ';
-var gree3 = 'Good afternoon ';
-var gree4 = 'Good evening ';
-var gree5 = 'Good evening ';
-var gree6 = 'Good evening ';
+var gree1 = 'Hora de dormir! ';
+var gree2 = 'Bom dia! ';
+var gree3 = 'Boa tarde ';
+var gree4 = 'Boa noite ';
+var gree5 = 'Boa noite ';
+var gree6 = 'Boa note ';
 
 // Define the hours of the greetings
 if (Hr >= 23 && Hr < 5) {
